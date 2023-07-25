@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- *
+ * str: string to print
  * Return: Always 0.
  */
 int main(void)

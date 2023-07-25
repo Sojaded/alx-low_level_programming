@@ -3,7 +3,7 @@
 
 /**
  * main - check the code 
- *
+ * n: input
  * Return: Always 0.
  */
 int main(void)

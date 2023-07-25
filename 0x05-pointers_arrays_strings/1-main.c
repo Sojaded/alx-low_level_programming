@@ -3,6 +3,8 @@
 
 /**
  * main - check the code
+ * a: integer to swap
+ * b: integr to swap
  *
  * Return: Always 0.
  */

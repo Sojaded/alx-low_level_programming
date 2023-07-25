@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- *
+ * s: first strlen
  * Return: Always 0.
  */
 int main(void)
